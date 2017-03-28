@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppVentaPromociones</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_bienvenida">ActivityBienvenida</string>
+    <string name="title_activity_avtivity_promociones_main">AvtivityPromocionesMain</string>
+    <string name="title_activity_navigation_drawer_promociones">NavigationDrawerPromociones</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Comprar!</string>
+    <string name="title_activity_activity_promociones_compra">ActivityPromocionesCompra</string>
+    <string name="title_activity_activity_promo1">ActivityPromo1</string>
+    <string name="title_activity_activity_promo2">ActivityPromo2</string>
+    <string name="title_activity_activity_promo3">ActivityPromo3</string>
+    <string name="title_activity_activity_compra_realizada">ActivityCompraRealizada</string>
+</resources>

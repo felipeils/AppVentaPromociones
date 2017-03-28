@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.ActivityPromo1"/>
+      <point      
+        x = "1913"      
+        y = "106"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.MainActivity"/>
+      <point      
+        x = "0"      
+        y = "11"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.ActivityPromocionesMain"/>
+      <point      
+        x = "4095"      
+        y = "28"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.ActivityBienvenida"/>
+      <point      
+        x = "396"      
+        y = "829"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.NavigationDrawerPromociones"/>
+      <point      
+        x = "4145"      
+        y = "488"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.ActivityPromo2"/>
+      <point      
+        x = "2388"      
+        y = "623"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.ActivityPromo3"/>
+      <point      
+        x = "2983"      
+        y = "1275"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.pipe.appventapromociones.ActivityPromocionesCompra"/>
+      <point      
+        x = "977"      
+        y = "1233"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

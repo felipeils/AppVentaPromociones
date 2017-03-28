@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pipe.appventapromociones" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/aa"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ActivityBienvenida"
+            android:label="@string/title_activity_activity_bienvenida" >
+        </activity>
+
+
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ActivityPromocionesCompra"
+            android:label="@string/title_activity_activity_promociones_compra" >
+        </activity>
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ActivityPromo1"
+            android:label="@string/title_activity_activity_promo1"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ActivityPromo2"
+            android:label="@string/title_activity_activity_promo2"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ActivityPromo3"
+            android:label="@string/title_activity_activity_promo3"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ActivityCompraRealizada"
+            android:label="@string/title_activity_activity_compra_realizada" >
+        </activity>
+    </application>
+
+</manifest>
